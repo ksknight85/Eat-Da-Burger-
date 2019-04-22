@@ -1,7 +1,7 @@
 CREATE DATABASE burger_db;
 USE burger_db;
 
-CREATE TABLE burger
+CREATE TABLE burger;
 (
 	id int NOT NULL AUTO_INCREMENT,
 	burger varchar(255) NOT NULL,
@@ -15,7 +15,7 @@ DROP DATABASE if EXISTS q4xrahr97pua8ns7;
 CREATE DATABASE q4xrahr97pua8ns7;
 USE q4xrahr97pua8ns7;
 
-CREATE TABLE burger
+CREATE TABLE burger;
 (
 	id int NOT NULL AUTO_INCREMENT,
 	burger varchar(255) NOT NULL,
